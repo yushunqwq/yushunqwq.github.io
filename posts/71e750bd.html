@@ -233,7 +233,7 @@
   const init = () => {
     twikoo.init(Object.assign({
       el: '#twikoo-wrap',
-      envId: 'https://yushunqwq.netlify.app/.netlify/functions/twikoo',
+      envId: 'https://yushunqwq-hexo.hf.space/',
       region: '',
       onCommentLoaded: () => {
         btf.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
@@ -250,7 +250,7 @@
     const countELement = document.getElementById('twikoo-count')
     if(!countELement) return
     twikoo.getCommentsCount({
-      envId: 'https://yushunqwq.netlify.app/.netlify/functions/twikoo',
+      envId: 'https://yushunqwq-hexo.hf.space/',
       region: '',
       urls: [window.location.pathname],
       includeReply: false
