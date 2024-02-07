@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://yushunqwq.github.io/posts/71e750bd.html</loc>
+    
+    <lastmod>2024-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yushunqwq.github.io/archives/index.html</loc>
+    
+    <lastmod>2024-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yushunqwq.github.io/categories/index.html</loc>
+    
+    <lastmod>2024-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yushunqwq.github.io/tags/index.html</loc>
+    
+    <lastmod>2024-02-04</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://yushunqwq.github.io/</loc>
+    <lastmod>2024-02-07</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://yushunqwq.github.io/tags/Archlinux/</loc>
+    <lastmod>2024-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://yushunqwq.github.io/categories/Archlinux/</loc>
+    <lastmod>2024-02-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>
