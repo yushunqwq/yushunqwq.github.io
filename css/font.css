@@ -1,12 +1,12 @@
 @font-face{
     font-family: 'JetBrains Mono';
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/yushunqwq/yushunqwq.github.io/fonts/JetBrainsMono-Regular.ttf') format("truetype");
+    src: url('../fonts/JetBrainsMono-Regular.ttf') format("truetype");
 }
 @font-face{
     font-family: 'SourceHanSerifCN';
     font-display: swap;
-    src: url('https://cdn.jsdelivr.net/gh/yushunqwq/yushunqwq.github.io/fonts/SourceHanSerifCN-SemiBold.otf') format("truetype");
+    src: url('../fonts/SourceHanSerifCN-SemiBold.otf') format("truetype");
 }
 body {
     font-family: 'JetBrains Mono','SourceHanSerifCN';
