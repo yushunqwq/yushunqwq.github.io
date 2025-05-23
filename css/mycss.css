@@ -9,23 +9,3 @@
 		rgba(7, 179, 155, 0.1) 86%,
 		rgba(109, 186, 130, 0.1) 100%);
 }
-
-/* 首页文章栏背景透明 */
-#recent-posts>.recent-post-item,.layout_page>div:first-child:not(.recent-posts),.layout_post>#page,.layout_post>#post,.read-mode .layout_post>#post {
-    background: var(--light_bg_color)
-}
-
-/* 侧边栏透明 */
-#aside-content .card-widget {
-    background: var(--light_bg_color)
-}
-
-/* 主页所有文章页面背景 */
-#aside_content .card-widget, #recent-posts>.recent-post-item, .layout_page>div:first-child:not(.recent-posts), .layout_post>#page, .layout_post>#post, .read-mode .layout_post>#post{
-    /* 以下代表透明度为0.5 */
-    background: var(--light_bg_color)
-}
-/*文章页面*/
-#post{
-    background: var(--light_bg_color)
-}
