@@ -33,3 +33,9 @@
 [data-theme="dark"] #page-header::before {
   background: transparent !important;
 }
+
+@font-face {
+  font-family: 'LXGW WenKai';
+  font-display: swap;
+  src: url('/fonts/LXGWWenKai-Regular.ttf') format("truetype");  
+}
