@@ -1381,7 +1381,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: LXGW WenKai;
+  font-family: LXGW WenKai Lite;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   scroll-behavior: smooth;
@@ -1673,7 +1673,7 @@ figure.highlight pre .javascript .function {
 .container pre,
 .container code {
   font-size: var(--global-font-size);
-  font-family: "JetBrains Mono", monospace !important;
+  font-family: consolas, Menlo, monospace, 'PingFang SC', 'Microsoft YaHei', sans-serif !important;
   border-radius: 6px;
 }
 .container code {

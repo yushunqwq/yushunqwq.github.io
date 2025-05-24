@@ -35,7 +35,7 @@
 }
 
 @font-face {
-  font-family: 'LXGW WenKai';
+  font-family: 'LXGW WenKai Lite';
   font-display: swap;
-  src: url('/fonts/LXGWWenKai-Regular.ttf') format("truetype");  
+  src: url('/fonts/LXGWWenKaiLite-Medium.ttf') format("truetype");  
 }
